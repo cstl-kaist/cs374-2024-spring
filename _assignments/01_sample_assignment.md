@@ -18,21 +18,21 @@ We designed this assignment to give you an opportunity to (1) make observations 
 
 <h2>Your report</h2>
 For each example, please report the following:
-- Hall of fame or shame?
-- One-line description of what it is
-- Where can it be found? (e.g., physical location, URL, name of the app)
-- How did you find it? You shouldn't Google "UI hall of fame or shame" and copy examples from these databases. Please find your own examples.
-- Analyze its usability using the dimensions covered in class: learnability, efficiency, and safety. Please feel free to discuss additional dimensions that you think are important for your example.
-- Screenshots and photos to effectively support your analysis
+* Hall of fame or shame?
+* One-line description of what it is
+* Where can it be found? (e.g., physical location, URL, name of the app)
+* How did you find it? You shouldn't Google "UI hall of fame or shame" and copy examples from these databases. Please find your own examples.
+* Analyze its usability using the dimensions covered in class: learnability, efficiency, and safety. Please feel free to discuss additional dimensions that you think are important for your example.
+* Screenshots and photos to effectively support your analysis
 
-For each example, you have a hard limit of maximum 250 words. But you may use as many screenshots and photos as you want. One-sentence captions are allowed for each visual material, and they are not counted toward the word limit.
+For each example, you have a hard limit of **maximum 250 words**. But you may use as many screenshots and photos as you want. One-sentence captions are allowed for each visual material, and they are not counted toward the word limit.
     
 <h2>Grading</h2>
-- **Completeness (20%)**: Cover all major usability dimensions, and include all the required components listed above in your report.
-- **Depth (20%)**: Include a thoughtful analysis of usability, beyond surface-level observations.
-- **Clarity (20%)**: The reader who sees the example for the first time should not struggle to understand your points.
-- **Visual Communication (20%)**: Use visual materials effectively to communicate your idea. Add annotations and labels to refer to specific elements in an image. Include zoom-in images if needed. Make sure your text and accompanying visuals complement each other.
-- **Conciseness (20%)**: Adhere to the word limit, and avoid being verbose in the description.
+* **Completeness (20%)**: Cover all major usability dimensions, and include all the required components listed above in your report.
+* **Depth (20%)**: Include a thoughtful analysis of usability, beyond surface-level observations.
+* **Clarity (20%)**: The reader who sees the example for the first time should not struggle to understand your points.
+* **Visual Communication (20%)**: Use visual materials effectively to communicate your idea. Add annotations and labels to refer to specific elements in an image. Include zoom-in images if needed. Make sure your text and accompanying visuals complement each other.
+* **Conciseness (20%)**: Adhere to the word limit, and avoid being verbose in the description.
     
 Please make sure to read the [academic integrity and collaboration policy](https://portal.kaist.ac.kr) of this course carefully.
     
