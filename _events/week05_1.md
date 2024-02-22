@@ -3,7 +3,9 @@ type: class
 date: 2024-03-26T10:30:00+9:00
 week: 5
 class: 'Learnability 2'
-material: 'Reading'
+material:
+- url: https://docs.google.com/document/d/17K0JUdV648vep_bALCpQVvghTbvGmbCUEOoNAQj43Ik/edit?usp=sharing
+   title: 'Reading'
 assignment: 'DP0: Team Formation'
 hide_time: true
 hide_from_announcements: true

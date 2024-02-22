@@ -3,7 +3,11 @@ type: class
 date: 2024-05-23T10:30:00+9:00
 week: 13
 class: 'Social Computing'
-material: 'Video 1 | Video 2'
+material:
+- url: https://www.youtube.com/watch?v=Aszl5avDtek
+   title: 'Video 1'
+ - url: https://www.ted.com/talks/clay_shirky_how_social_media_can_make_history/discussion
+   title: 'Video 2'
 assignment: 'HW3: Connecting Figma to Web Prototyping'
 hide_time: true
 hide_from_announcements: true
