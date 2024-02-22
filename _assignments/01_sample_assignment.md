@@ -28,17 +28,17 @@ For each example, please report the following:
 For each example, you have a hard limit of maximum 250 words. But you may use as many screenshots and photos as you want. One-sentence captions are allowed for each visual material, and they are not counted toward the word limit.
     
 <h2>Grading</h2>
--**Completeness (20%)**: Cover all major usability dimensions, and include all the required components listed above in your report.
--**Depth (20%)**: Include a thoughtful analysis of usability, beyond surface-level observations.
--**Clarity (20%)**: The reader who sees the example for the first time should not struggle to understand your points.
--**Visual Communication (20%)**: Use visual materials effectively to communicate your idea. Add annotations and labels to refer to specific elements in an image. Include zoom-in images if needed. Make sure your text and accompanying visuals complement each other.
--**Conciseness (20%)**: Adhere to the word limit, and avoid being verbose in the description.
+- **Completeness (20%)**: Cover all major usability dimensions, and include all the required components listed above in your report.
+- **Depth (20%)**: Include a thoughtful analysis of usability, beyond surface-level observations.
+- **Clarity (20%)**: The reader who sees the example for the first time should not struggle to understand your points.
+- **Visual Communication (20%)**: Use visual materials effectively to communicate your idea. Add annotations and labels to refer to specific elements in an image. Include zoom-in images if needed. Make sure your text and accompanying visuals complement each other.
+- **Conciseness (20%)**: Adhere to the word limit, and avoid being verbose in the description.
     
 Please make sure to read the [academic integrity and collaboration policy](https://portal.kaist.ac.kr) of this course carefully.
     
 <h2>How do I submit?</h2>
 1. Make a single PDF file of your report.
 2. Name it your KAIST ID (e.g., "20200001.pdf").
-3. Submit it by [visiting this link]("").
+3. Submit it by [visiting this link](https://).
 
 You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire.
