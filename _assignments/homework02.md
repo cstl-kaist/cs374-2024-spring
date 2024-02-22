@@ -11,13 +11,13 @@ due_event:
     description: 'Assignment #2 due'
 ---
 
-<h2>Intro</h2>
+## Intro
 We created a ChatGPT login interface using Figma in our tutorial session. In this assignment, let's make a prototype of the conversation interface of ChatGPT using Figma.
 
-<h2>What should I do?</h2>
+## What should I do?
 Your task is to build an interactive prototype to show the conversation feature of ChatGPT([https://chat.openai.com/](https://chat.openai.com/)). You’ll prototype two turns of conversation between the user and ChatGPT, and the chat thread (which is shown on the left of the interface).
 
-<h2>Where do I start from?</h2>
+## Where do I start from?
 We provide you with the starter kit, [template Figma file](https://www.figma.com/file/JHRoSBxedR1f7Gl6OqBD1I/HW2-(template)?node-id=0%3A1&t=qPcO9yubk7vrvhIV-1). It includes
 
 * A frame that can be used as a starting point
@@ -25,23 +25,23 @@ We provide you with the starter kit, [template Figma file](https://www.figma.com
 * Reference images for each step
 Make a copy of the template using “Duplicate to your drafts”, and change the title of your design file to “(student id)_(name)”
 
-<h2>How do I submit?</h2>
+## How do I submit?
 * Make a shareable link to your Figma design file. Click the “Share” button and check whether the sharing permission is set to “Anyone with the link” - “can view”
 * Copy the shareable link via the “Copy link” button, and submit it to this Google Form by the due date stated above.
 * Late policy on the course webpage will be applied.
 * We track the version history of your Figma file. Any edits made after the deadline will be considered a late submission.
 
-<h2>Where do I ask questions?</h2>
+## Where do I ask questions?
 * If you have questions about this assignment, please post questions on Campuswire with the “Q&A - Assignment” category. TA will answer within a day. Your classmates could answer as well.
 * If you believe your question should be kept private, please send an email to cs374@?????. After answering those questions, TA may share the question with other students.
 
-<h2>Assignment details</h2>
+## Assignment details
 This assignment includes three steps, which in total sum up to 120 points. Please carefully read the instruction and follow them step-by-step.
 
-<h3>STEP 1: Draw a page of chats (60 pts)</h3>
+### STEP 1: Draw a page of chats (60 pts)
 In this step, you have to create two components for conversation, each for the user and ChatGPT. Then, using the components, you should complete the prototype of a screen containing 2 turns of chat.
 
-<h4>Step 1-1: User conversation component (20pt)</h4>
+#### Step 1-1: User conversation component (20pt)
 Let's create a **user conversation component** based on the part of the reference image that corresponds to the user's first utterance.
 
 **(5pts) Add background**
@@ -82,7 +82,7 @@ Let's create a **user conversation component** based on the part of the referenc
 * Change the frame with the auto layout as a component.
 * Change the component name to “user_conversation”.
 
-<h4>Step 1-2: ChatGPT conversation component (25pt)</h4>
+#### Step 1-2: ChatGPT conversation component (25pt)
 Now, let's create a **ChatGPT conversation component** based on the part of the reference image that corresponds to the ChatGPT’s first utterance.
 
 **(5pts) Add background**
@@ -133,7 +133,7 @@ Learning about HCI is important because it helps us to design technology that be
 * Change the frame with the auto layout as a component
 * Change the component name to “gpt_conversation”
 
-<h4>Step 1-3: Complete a screen using components (10pt)</h4>
+#### Step 1-3: Complete a screen using components (10pt)
 Using the two components that you made, complete the screen with 2 turns of conversation.
 * Delete unnecessary contents (Title, message examples) from the given frame (“main”).
 * Make two copies of the “userconversation” component and two copies of the “gptconversation” component

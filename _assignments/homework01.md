@@ -10,13 +10,13 @@ due_event:
     date: 2024-03-12T23:59:00+9:00
     description: 'Assignment #1 due'
 ---
-<h2>What do I do?</h2>
+## What do I do?
 In this assignment, you will find **two user interface examples** around you, one that you think has good usability and one that you think has bad usability. Examples don't have to be graphical user interfaces: they can be smartphone apps, websites, bathroom signs, cafe menus, car dashboards, etc. Make sure to avoid analyzing the entire service or app, but focus on particular parts of the interface that you think have noteworthy usability issues. Also, most interfaces will have good and bad aspects at the same time, so feel free to cover both sides in your analysis. But for each example, make your final decision about whether it's a good (hall of fame) or bad (hall of shame) example overall.
     
-<h2>Why do I do this?</h2>
+## Why do I do this?
 We designed this assignment to give you an opportunity to (1) make observations on various user interfaces around you, and (2) apply the usability dimensions covered in class to real-world examples. You'll practice analyzing interfaces from a usability perspective. We'll feature some of the best examples from this assignment in class, and give you credit!
 
-<h2>Your report</h2>
+## Your report
 For each example, please report the following:
 * Hall of fame or shame?
 * One-line description of what it is
@@ -27,7 +27,7 @@ For each example, please report the following:
 
 For each example, you have a hard limit of **maximum 250 words**. But you may use as many screenshots and photos as you want. One-sentence captions are allowed for each visual material, and they are not counted toward the word limit.
     
-<h2>Grading</h2>
+## Grading
 * **Completeness (20%)**: Cover all major usability dimensions, and include all the required components listed above in your report.
 * **Depth (20%)**: Include a thoughtful analysis of usability, beyond surface-level observations.
 * **Clarity (20%)**: The reader who sees the example for the first time should not struggle to understand your points.
@@ -36,7 +36,7 @@ For each example, you have a hard limit of **maximum 250 words**. But you may us
     
 Please make sure to read the [academic integrity and collaboration policy](https://portal.kaist.ac.kr) of this course carefully.
     
-<h2>How do I submit?</h2>
+## How do I submit?
 1. Make a single PDF file of your report.
 2. Name it your KAIST ID (e.g., "20200001.pdf").
 3. Submit it by [visiting this link](https://).
