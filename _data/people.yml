@@ -1,11 +1,11 @@
 instructors:
   - name: Joseph Seering
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/josephseering.jpg
     webpage: https://joseph.seering.org/
 
 teaching_assistants:
   - name: Yoonseo Choi
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/yoonseochoi.jpg
     webpage: https://www.yoonseochoi.com/
 
   - name: Juhoon Lee
@@ -13,5 +13,5 @@ teaching_assistants:
     webpage: 
 
   - name: Yoojin Hong
-    profile_pic: /_images/pp/weasley.jpg
+    profile_pic: /_images/pp/yoojinhong.jpg
     webpage: 
