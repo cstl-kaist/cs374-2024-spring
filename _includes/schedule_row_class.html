@@ -10,7 +10,7 @@
 <div class="col col-3 markdown-content" data-label="Pre-Class Material">
     {% for m in include.event.material %}
     {% if m.url %}
-    <a href="{{ m.url }}">{{ include.event.title }}</a>
+    <a href="{{ m.url }}">{{ m.title }}</a>
     {% else %}
     {{ m.title }}
     {% endif %}
