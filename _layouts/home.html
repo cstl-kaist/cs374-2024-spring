@@ -11,6 +11,7 @@ layout: default
 
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>
+    <p><b>Prerequisites</b>: There are no formal prerequisites for this class, and non-CS majors are welcome to enroll, but students may benefit from having taken some introductory computer science classes.</p>
     
     {{ content }}
 
@@ -57,17 +58,18 @@ layout: default
 
     <br>
     <h2>Time & Location</h2>
-    <p>
-        <b>Classes & Studios</b>: 10:30 - 11:45 AM Tue/Thurs @ Zoom\n
+    <div>
+        <b>Classes & Studios</b>: 10:30 - 11:45 AM Tue/Thurs @ Zoom<br />
         <b>Office Hours</b>: TBD
-    </p>
-    <p><b>Office Hours</b>: TBD</p>
+    </div>
 
     <br>
     <h2>Important Links</h2>
-    <p><b>Course Website</b>: </p>
-    <p><b>Submission & Grading</b>: </p>
-    <p><b>Discussion and Q&A</b>: </p>
+    <div>
+        <b>Course Website</b>:
+        <b>Submission & Grading</b>:
+        <b>Discussion and Q&A</b>:
+    </div>
 
     <h2>Grading</h2>
     <ul>
@@ -76,8 +78,25 @@ layout: default
         <li>Assignments: 20%</li>
         <li>Nano quizzes: 10%</li>
         <li>Class & Studio participation: 10%</li>
-      </ul>
+    </ul>
 
+    <h2>Topics</h2>
+    <div>
+    Major topics include:
+    <ul>
+        <li>Usability: Learnability, Efficiency, Safety</li>
+        <li>User-Centered Design Process</li>
+        <li>Rapid Prototyping, Iterative Design</li>
+        <li>Needfinding, Contextual Inquiry, Storyboards</li>
+        <li>Affordance, Metaphors, Conceptual Models</li>
+        <li>User Interface Software Architecture</li>
+        <li>Input and Output</li>
+        <li>Visual Information Design</li>
+        <li>Layout, Color, Typography</li>
+        <li>Usability Testing & Heuristic Evaluation</li>
+        <li>Experimental Design & Analysis</li>
+    </ul>
+    </div>
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Previous Offerings</h2>

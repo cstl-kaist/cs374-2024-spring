@@ -5,7 +5,7 @@ week: 10
 class: '[Studio] DP3: Prototyping Round 1'
 material:
  - title: 'None'
-assignment: 'DP3 Write-up'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---
