@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2019-01-26T08:00:00+3:30
+date: 2024-02-27T10:30:00+9:00
 week: 1
 class: 'Introduction & Course Info'
 material: 'None'

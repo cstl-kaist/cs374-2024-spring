@@ -1,8 +1,8 @@
 ---
 type: raw_event
-date: 2024-03-05T10:30:00+9:00
-week: 2
-class: 'Needfinding'
+date: 2024-04-11T10:30:00+9:00
+week: 7
+class: 'Human Abilities'
 material: 'Reading'
 assignment:
 hide_time: true

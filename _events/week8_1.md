@@ -1,8 +1,8 @@
 ---
 type: raw_event
-date: 2024-02-29T10:30:00+9:00
-week: 1
-class: 'Design Thinking Workshop'
+date: 2024-04-16T10:30:00+9:00
+week: 8
+class: 'No class (Midterms week)'
 material: 'None'
 assignment:
 hide_time: true
