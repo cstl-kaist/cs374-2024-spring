@@ -6,5 +6,5 @@ class: 'Learnability 2'
 material: 'Reading'
 assignment: 'DP0: Team Formation'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

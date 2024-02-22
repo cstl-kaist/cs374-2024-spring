@@ -6,5 +6,5 @@ class: 'Usability Testing & Heuristic Evaluation'
 material: 'Reading 1 (UT) | Reading 2 (HE)'
 assignment: 
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

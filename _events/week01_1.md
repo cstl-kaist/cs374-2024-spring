@@ -6,5 +6,5 @@ class: 'Introduction & Course Info'
 material: 'None'
 assignment: Course Sign-Up
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

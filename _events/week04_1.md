@@ -6,5 +6,5 @@ class: '[Studio] Mini Project'
 material: 'Reading (Prototyping 2/2 + User-Centered Design)'
 assignment: 'Mini Project Individual Reflections'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

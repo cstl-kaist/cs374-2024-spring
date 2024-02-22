@@ -6,5 +6,5 @@ class: 'TBD'
 material: 
 assignment: 
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

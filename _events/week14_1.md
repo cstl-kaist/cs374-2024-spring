@@ -6,5 +6,5 @@ class: '[Studio] DP5: Prototyping Round 3 + Usability Testing'
 material: 'None'
 assignment: 'DP5 Write-up'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

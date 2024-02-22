@@ -6,5 +6,5 @@ class: 'UI Software Architecture + Output'
 material: 'Reading 1 | Reading 2'
 assignment: 'DP3 Write-up'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

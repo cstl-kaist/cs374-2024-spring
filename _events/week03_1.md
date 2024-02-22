@@ -6,5 +6,5 @@ class: 'Prototyping'
 material: 'Reading (Prototyping 1/2)'
 assignment: 'HW1: UI Hall of Fame and Shame'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

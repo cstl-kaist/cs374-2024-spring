@@ -6,5 +6,5 @@ class: 'Color & Typography'
 material: 'Reading 1 | Reading 2'
 assignment: 'HW2: Figma Protyping'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

@@ -6,5 +6,5 @@ class: 'No calss (National Holiday - Memorial Day)'
 material: 'None'
 assignment: 'DP6 Write-up'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

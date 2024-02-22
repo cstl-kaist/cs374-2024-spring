@@ -6,5 +6,5 @@ class: '[Studio] DP2: Ideation'
 material: 'None'
 assignment: 'DP2 Write-up'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

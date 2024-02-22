@@ -6,5 +6,5 @@ class: 'No class (Finals week)'
 material: 'None'
 assignment:
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

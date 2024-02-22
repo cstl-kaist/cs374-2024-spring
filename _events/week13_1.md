@@ -6,5 +6,5 @@ class: 'Accessibility & Internationalization'
 material: 'Reading 1 | Reading 2'
 assignment: 
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

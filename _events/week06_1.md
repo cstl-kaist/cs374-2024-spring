@@ -6,5 +6,5 @@ class: '[Studio] DP1: Needfinding'
 material: 'None'
 assignment: 'DP1 Write-up'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

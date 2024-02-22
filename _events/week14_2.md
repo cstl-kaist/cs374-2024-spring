@@ -6,5 +6,5 @@ class: 'HCI Research & Career Paths'
 material: 'None'
 assignment: 
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

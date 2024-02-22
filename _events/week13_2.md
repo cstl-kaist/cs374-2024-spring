@@ -6,5 +6,5 @@ class: 'Social Computing'
 material: 'Video 1 | Video 2'
 assignment: 'HW3: Connecting Figma to Web Prototyping'
 hide_time: true
-hide_from_announcments: true
+hide_from_announcements: true
 ---

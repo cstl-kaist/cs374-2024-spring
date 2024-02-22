@@ -4,15 +4,15 @@ course_description: "Designing useful and usable user interfaces is much more th
 course_semester: "2024 Spring"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cstlab.org/" # the base hostname & protocol for your site
+url: "http://hci.cstlab.org/" # the base hostname & protocol for your site
 
-schoolname: "KAIST"
+schoolname: "KAIST School of Computing"
 schoolurl: "https://cs.kaist.ac.kr"
 twitter_username: username 
 
 address: |
-    Korea Institute of Science and Technology
-    KAIST
+    School of Computing
+    Korea Institute of Science and Technology (KAIST)
     Daejeon, Republic of Korea
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
