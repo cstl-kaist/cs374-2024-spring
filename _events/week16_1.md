@@ -1,5 +1,5 @@
 ---
-type: no_class
+type: noclass
 date: 2024-06-11T10:30:00+9:00
 week: 16
 class: 'No class (Finals week)'
