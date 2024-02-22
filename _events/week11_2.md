@@ -1,5 +1,5 @@
 ---
-type: raw_event
+type: class
 date: 2024-05-09T10:30:00+9:00
 week: 11
 class: 'Color & Typography'

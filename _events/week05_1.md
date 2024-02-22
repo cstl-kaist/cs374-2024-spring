@@ -1,5 +1,5 @@
 ---
-type: raw_event
+type: class
 date: 2024-03-26T10:30:00+9:00
 week: 5
 class: 'Learnability 2'
