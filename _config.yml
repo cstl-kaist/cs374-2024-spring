@@ -1,6 +1,6 @@
 # Site settings
 course_name: CS374 Introduction to Human-Computer Interaction
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: ""
 course_semester: "2024 Spring"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -30,7 +30,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%m/%d"
 
 future: true
 collections:

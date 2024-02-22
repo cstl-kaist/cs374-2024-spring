@@ -14,14 +14,14 @@ layout: default
     
     {{ content }}
 
-    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h2>Previous Offerings</h2>
-    <ul class="previous-offerings">
-    {% for offer in site.data.previous_offering.offerings %}
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
-    {% endfor %}
-    </ul>
-    {% endif %}
+    <h2>Time & Location</h2>
+    <p>Classes & Studios: 10:30 - 11:45 AM Tue/Thurs @ Zoom</p>
+    <p>Office Hours: TBD</p>
+
+    <h2>Important Links</h2>
+    <p>Course Website: </p>
+    <p>Submission & Grading: </p>
+    <p>Discussion and Q&A: </p>
 
     <br>
     <div>
@@ -33,7 +33,7 @@ layout: default
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
+                <h2>Instructor</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
@@ -63,4 +63,23 @@ layout: default
             </div>
         </div>
     </div>
+
+    <h2>Grading</h2>
+    <ul>
+        <li>Design Project: 50%</li>
+        <li>Mini Project: 10%</li>
+        <li>Assignments: 20%</li>
+        <li>Nano quizzes: 10%</li>
+        <li>Class & Studio participation: 10%</li>
+      </ul>
+
+
+    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+    <h2>Previous Offerings</h2>
+    <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
 </div>
