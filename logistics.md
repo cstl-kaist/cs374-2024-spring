@@ -1,6 +1,6 @@
 ---
-layout: lectures
-title: Lectures
-permalink: /lectures/
+layout: logistics
+title: Course Logistics
+permalink: /logistics/
 ---
 You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
