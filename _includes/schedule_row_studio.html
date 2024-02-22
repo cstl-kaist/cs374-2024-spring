@@ -3,7 +3,7 @@
     {{ event.date | date: site.dateformat }}
     <br class="date-spliter" />{{ event.date | date: "%A" }}
 </div>
-<div class="col col-4" style="color: #8a6d3b ;font-weight: bold;" data-label="Class/Studio">{{ include.event.class }}</div>
+<div class="col col-3" style="color: #8a6d3b ;font-weight: bold;" data-label="Class/Studio">{{ include.event.class }}</div>
 <div class="col col-3 markdown-content" data-label="Pre-Class Material">
     {% for m in include.event.material %}
     {% if m.url %}
