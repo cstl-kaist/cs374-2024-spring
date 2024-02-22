@@ -8,7 +8,7 @@ url: "http://hci.cstlab.org/" # the base hostname & protocol for your site
 
 schoolname: "KAIST School of Computing"
 schoolurl: "https://cs.kaist.ac.kr"
-twitter_username: username 
+twitter_username: 
 
 address: |
     School of Computing

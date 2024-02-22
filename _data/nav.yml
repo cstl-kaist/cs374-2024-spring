@@ -16,7 +16,7 @@ items:
   icon_class: fas fa-user-graduate
 
 - url: /project/
-  name: Project
+  name: Design Project
   icon_class: fas fa-user-graduate
 
 - url: /gallery/
