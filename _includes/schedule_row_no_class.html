@@ -1,0 +1,11 @@
+<div class="col col-1" style="color: #b5b5b5" data-label="Week">{{ include.event.week }}</div>
+<div class="col col-1-2" data-label="Date">
+    {{ include.event.date | date: site.dateformat }}
+    {% unless include.event.hide_time %}
+    {{ include.event.date | date: "%H:%M" }}
+    {% endunless %}
+    <br class="date-spliter" />{{ include.event.date | date: "%A" }}
+</div>
+<div class="col col-4" data-label="Class/Studio">{{ include.event.class }}</div>
+<div class="col col-3 markdown-content" data-label="Pre-Class Material">{{ include.event.material }}</div>
+<div class="col col-3 markdown-content" data-label="Assignment Due">{{ include.event.assignment }}</div>

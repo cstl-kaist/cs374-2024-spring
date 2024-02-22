@@ -1,5 +1,5 @@
 ---
-type: raw_event
+type: studio
 date: 2024-04-02T10:30:00+9:00
 week: 6
 class: '[Studio] DP1: Needfinding'

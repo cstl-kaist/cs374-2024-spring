@@ -1,5 +1,5 @@
 ---
-type: raw_event
+type: studio
 date: 2024-03-19T10:30:00+9:00
 week: 4
 class: '[Studio] Mini Project'

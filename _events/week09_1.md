@@ -1,10 +1,10 @@
 ---
 type: raw_event
-date: 2024-04-16T10:30:00+9:00
-week: 8
-class: 'No class (Midterms week)'
+date: 2024-04-23T10:30:00+9:00
+week: 7
+class: 'Figma / Web Tutorial'
 material: 'None'
-assignment:
+assignment: 
 hide_time: true
 hide_from_announcments: true
 ---
