@@ -22,9 +22,10 @@ There are no official course prerequisites. But the assignments and the final pr
 ## Grading
 Here's a breakdown of how the grading will work:
 * Design Project: 50%
+* Mini Project: 10%
 * Assignments: 20%
-* In-class activities and participation: 20%
-* Studio participation: 10%
+* Nano quizzes: 10%
+* Class & Studio participation: 10%
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
