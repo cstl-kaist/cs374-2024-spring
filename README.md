@@ -112,8 +112,8 @@ links:
 ---
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Readings 1](https://example.com)
+- [Readings 2](https://example.com)
 ```
 
 ### Assignments

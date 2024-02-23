@@ -13,5 +13,5 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
+- [Readings 1](https://example.com)
+- [Readings 2](https://example.com) -->

@@ -71,10 +71,10 @@ There is no official textbook. We will mix various resources that best explain t
 
 This doesn't mean that there aren't great books. Here's a short selection of books we recommend:
 
-* Don Norman, [The Design of Everyday Things](http://www.yes24.com/24/goods/8448278?scode=032&OzSrank=1), 1990.
-* Jef Raskin, [The Humane Interface](http://www.yes24.com/24/goods/247022?scode=032&OzSrank=1), ACM Press, 2000.
-* Steve Krug, [Don't Make Me Think](http://www.yes24.com/24/goods/1550565?scode=032&OzSrank=2), New Riders Publishing, 2005.
-* Edward Tufte, [The Visual Display of Quantitative Information](http://www.yes24.com/24/Goods/1052749?Acode=101), Graphics Press, 1983.
+* Don Norman, [The Design of Everyday Things](https://www.yes24.com/24/goods/8448278?scode=032&OzSrank=1), 1990.
+* Jef Raskin, [The Humane Interface](https://www.yes24.com/24/goods/247022?scode=032&OzSrank=1), ACM Press, 2000.
+* Steve Krug, [Don't Make Me Think](https://www.yes24.com/24/goods/1550565?scode=032&OzSrank=2), New Riders Publishing, 2005.
+* Edward Tufte, [The Visual Display of Quantitative Information](https://www.yes24.com/24/Goods/1052749?Acode=101), Graphics Press, 1983.
 
 <!-- TOC --><a name="faq"></a>
 ## FAQ
@@ -97,4 +97,4 @@ This will be a course that will have reading / video materials for every class, 
 We recognize that a vast majority of students won't be comfortable with speakinng English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.
 
 **How do I learn more about HCI research happening on campus?**  
-We have a wonderful on-campus community of HCI researchers called [HCI@KAIST](http://hci.kaist.ac.kr/). It features 20+ labs across multiple departments. Please check out the website for more information.
+We have a wonderful on-campus community of HCI researchers called [HCI@KAIST](https://hci.kaist.ac.kr/). It features 20+ labs across multiple departments. Please check out the website for more information.
