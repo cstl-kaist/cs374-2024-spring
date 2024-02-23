@@ -6,7 +6,7 @@ class: 'Prototyping'
 material:
  - url: https://docs.google.com/document/d/1HzU5gEPbLzKT5JDTSGnpSrPZ-gZE0QsstyJasZO6C-U/edit?usp=sharing
    title: 'Reading (Prototyping 1/2)'
-assignment: 'HW1: UI Hall of Fame and Shame'
+assignment: 'HW1'
 hide_time: true
 hide_from_announcements: true
 ---
