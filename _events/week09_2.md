@@ -8,7 +8,7 @@ material:
    title: 'Reading 1 (UISA)'
  - url: https://docs.google.com/document/d/1M8xjqg2ovci1suHYg5XmyAVHKeAQhDZxsRNf6WVt644/edit?usp=sharing
    title: 'Reading 2 (Output)'
-assignment: 'DP3 Write-up'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---

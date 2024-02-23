@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2024-02-23T4:00:00+4:30
 title: 'Homework #2 - Figma Prototyping'
@@ -145,4 +145,4 @@ ChatGPT:
 There are many subtopics within HCI, but here are three popular ones:
 1. User experience (UX) design: This focuses on creating technology that is user-centered, easy to use, and meets the needs of the user. It involves studying user behavior, designing interfaces, and testing prototypes to ensure that the technology is intuitive and efficient.
 2. Accessibility: This involves designing technology that can be used by people with different abilities and disabilities. It includes considerations such as visual impairments, hearing impairments, motor impairments, and cognitive impairments.
-3. Interaction techniques: This area of HCI focuses on developing new ways for humans to interact with computers. This includes touch screens, gestures, voice recognition, and other forms of natural language processing.
+3. Interaction techniques: This area of HCI focuses on developing new ways for humans to interact with computers. This includes touch screens, gestures, voice recognition, and other forms of natural language processing. -->

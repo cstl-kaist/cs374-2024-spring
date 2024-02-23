@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
 title: 'Homework #1 - UI Hall of Fame and Shame'
@@ -41,4 +41,4 @@ Please make sure to read the [academic integrity and collaboration policy](https
 2. Name it your KAIST ID (e.g., "20200001.pdf").
 3. Submit it by [visiting this link](https://).
 
-You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire.
+You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire. -->
