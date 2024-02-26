@@ -17,4 +17,13 @@
     <br>
     {% endfor %}
 </div>
-<div class="col col-3 markdown-content" data-label="Assignment Due">{{ include.event.assignment }}</div>
+<div class="col col-3 markdown-content" data-label="Assignment Due">
+    {% for m in include.event.assignment %}
+    {% if m.url %}
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    {% else %}
+    {{ m.title }}
+    {% endif %}
+    <br>
+    {% endfor %}
+</div>
