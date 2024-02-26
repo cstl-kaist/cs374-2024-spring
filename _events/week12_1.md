@@ -5,7 +5,8 @@ week: 12
 class: '[Studio] DP4: Prototyping Round 2 + Heuristic Evaluation'
 material:
  - title: 'None'
-assignment: 'DP4 Write-up'
+assignment:
+ - title: 'DP4 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

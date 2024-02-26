@@ -5,7 +5,8 @@ week: 6
 class: '[Studio] DP1: Needfinding'
 material:
  - title: 'None'
-assignment: 'DP1 Write-up'
+assignment:
+ - title: 'DP1 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

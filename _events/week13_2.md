@@ -8,7 +8,8 @@ material:
    title: 'Video 1'
  - url: https://www.ted.com/talks/clay_shirky_how_social_media_can_make_history/discussion
    title: 'Video 2'
-assignment: 'HW3'
+assignment:
+ - title: 'HW3'
 hide_time: true
 hide_from_announcements: true
 ---

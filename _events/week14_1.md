@@ -5,7 +5,8 @@ week: 14
 class: '[Studio] DP5: Prototyping Round 3 + Usability Testing'
 material:
  - title: 'None'
-assignment: 'DP5 Write-up'
+assignment:
+ - title: 'DP5 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

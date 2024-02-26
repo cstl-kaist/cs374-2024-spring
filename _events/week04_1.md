@@ -6,7 +6,8 @@ class: '[Studio] Mini Project'
 material:
  - url: https://docs.google.com/document/d/1WWT9ir8gimboA6w0ZLpvFfJwWeA-X-zqY1ZelCdAwjw/edit?usp=sharing
    title: 'Reading (Prototyping 2/2 + User-Centered Design)'
-assignment: 'Mini Project Individual Reflections'
+assignment:
+ - title: 'Mini Project Individual Reflections'
 hide_time: true
 hide_from_announcements: true
 ---

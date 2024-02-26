@@ -6,7 +6,8 @@ class: 'Learnability 2'
 material:
  - url: https://docs.google.com/document/d/17K0JUdV648vep_bALCpQVvghTbvGmbCUEOoNAQj43Ik/edit?usp=sharing
    title: 'Reading'
-assignment: 'DP0: Team Formation'
+assignment:
+ - title: 'DP0: Team Formation'
 hide_time: true
 hide_from_announcements: true
 ---

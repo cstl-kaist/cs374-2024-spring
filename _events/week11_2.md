@@ -8,7 +8,8 @@ material:
    title: 'Reading 1 (Color)'
  - url: https://docs.google.com/document/d/1Wi6kaWjSE_aJtNroA0og8GcDxn37QEp70Emk9Ywxy-o/edit?usp=sharing
    title: 'Reading 2 (Typography)'
-assignment: 'HW2'
+assignment:
+ - title: 'HW2'
 hide_time: true
 hide_from_announcements: true
 ---
