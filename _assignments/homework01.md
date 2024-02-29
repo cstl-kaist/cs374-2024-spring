@@ -39,6 +39,6 @@ Please make sure to read the [academic integrity and collaboration policy](https
 ## How do I submit?
 1. Make a single PDF file of your report.
 2. Name it your KAIST ID (e.g., "20200001.pdf").
-3. Submit it by [visiting this link](https://).
+3. Submit it by [visiting this link](https://www.dropbox.com/request/oDyEzT7q6WNuou8lz40q).
 
 You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire.
