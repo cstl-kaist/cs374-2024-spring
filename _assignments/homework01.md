@@ -1,4 +1,3 @@
-<!-- ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
 title: 'Homework #1 - UI Hall of Fame and Shame'
@@ -34,11 +33,11 @@ For each example, you have a hard limit of **maximum 250 words**. But you may us
 * **Visual Communication (20%)**: Use visual materials effectively to communicate your idea. Add annotations and labels to refer to specific elements in an image. Include zoom-in images if needed. Make sure your text and accompanying visuals complement each other.
 * **Conciseness (20%)**: Adhere to the word limit, and avoid being verbose in the description.
     
-Please make sure to read the [academic integrity and collaboration policy](https://portal.kaist.ac.kr) of this course carefully.
+Please make sure to read the [academic integrity and collaboration policy](https://hci.cstlab.org/logistics/#academic-integrity-and-collaboration) of this course carefully.
     
 ## How do I submit?
 1. Make a single PDF file of your report.
 2. Name it your KAIST ID (e.g., "20200001.pdf").
 3. Submit it by [visiting this link](https://).
 
-You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire. -->
+You can submit multiple times until the deadline, and we'll use the most recent version for grading. Late days are automatically applied based on your submission time. Please ask questions about the assignment on Campuswire.
