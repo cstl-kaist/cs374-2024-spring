@@ -4,6 +4,3 @@ title: Assignments
 permalink: /assignments/
 ---
 Check out each assignment page for any additional info.
-
-### HW2
-### HW3
