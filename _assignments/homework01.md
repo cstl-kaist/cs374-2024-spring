@@ -7,7 +7,7 @@ attachment:
 solutions:
 due_event: 
     type: due
-    date: 2024-03-14T23:59:00+9:00
+    date: 2024-03-14T23:59:00
     description: 'Assignment #1 due'
 ---
 ## What do I do?
