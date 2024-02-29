@@ -11,7 +11,7 @@ title: page.title
 
   <div>
     {% if page.due_event %}
-    <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: site.dateformat }} {{ include.event.date | date: "%A" }} {{ page.due_event.date | date: "%H:%M" }}</span>
+    <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }} (Thursday)\n</span>
     {% endif %}
     <span style="font-weight: bold">3% of your total grade</span>
     <br>
