@@ -3,8 +3,17 @@
     {{ event.date | date: site.dateformat }}
     <br class="date-spliter" />{{ event.date | date: "%A" }}
 </div>
-<div class="col col-4" style="color: #8a6d3b ;font-weight: bold;" data-label="Class/Studio">{{ include.event.class }}</div>
-<div class="col col-3 markdown-content" data-label="Pre-Class Material">
+<div class="col col-4" style="color: #8a6d3b ;font-weight: bold;" data-label="Class/Studio">
+    {% for m in include.event.class %}
+    {% if m.url %}
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    {% else %}
+    {{ m.title }}
+    {% endif %}
+    <br>
+    {% endfor %}
+}</div>
+<div class="col col-3 markdown-content" style="color: #8a6d3b ;font-weight: bold;" data-label="Pre-Class Material">
     {% for m in include.event.material %}
     {% if m.url %}
     <a href="{{ m.url }}">{{ m.title }}</a>
@@ -14,7 +23,7 @@
     <br>
     {% endfor %}
 </div>
-<div class="col col-3 markdown-content" data-label="Assignment Due">
+<div class="col col-3 markdown-content" style="color: #8a6d3b ;font-weight: bold;" data-label="Assignment Due">
     {% for m in include.event.assignment %}
     {% if m.url %}
     <a href="{{ m.url }}">{{ m.title }}</a>
