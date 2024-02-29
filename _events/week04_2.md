@@ -2,7 +2,8 @@
 type: class
 date: 2024-03-21T10:30:00+9:00
 week: 4
-class: 'Learnability 1'
+class:
+ - title: 'Learnability 1'
 material:
  - url: https://docs.google.com/document/d/1k1msUpl_SXDu0TmbstKamiIrp4zifCAnAY0Ayj_kPD0/edit?usp=sharing
    title: 'Reading'

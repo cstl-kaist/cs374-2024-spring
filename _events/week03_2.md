@@ -2,7 +2,8 @@
 type: class
 date: 2024-03-14T10:30:00+9:00
 week: 3
-class: 'Usability Testing & Heuristic Evaluation'
+class:
+ - title: 'Usability Testing & Heuristic Evaluation'
 material:
  - url: https://docs.google.com/document/d/1obCqmsaEeGt5uB7tltgzqYtgqAPTTi8PiWXFgStkGTI/edit?usp=sharing
    title: 'Reading 1 (UT)'

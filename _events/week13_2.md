@@ -2,7 +2,8 @@
 type: class
 date: 2024-05-23T10:30:00+9:00
 week: 13
-class: 'Social Computing'
+class:
+ - title: 'Social Computing'
 material:
  - url: https://www.youtube.com/watch?v=Aszl5avDtek
    title: 'Video 1'

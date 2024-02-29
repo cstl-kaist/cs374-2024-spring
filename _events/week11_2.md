@@ -2,7 +2,8 @@
 type: class
 date: 2024-05-09T10:30:00+9:00
 week: 11
-class: 'Color & Typography'
+class:
+ - title: 'Color & Typography'
 material:
  - url: https://docs.google.com/document/d/1-1at5JwT8hbDX23D-JaLqOoNCGOezuwreCTREH2ua_A/edit?usp=sharing
    title: 'Reading 1 (Color)'

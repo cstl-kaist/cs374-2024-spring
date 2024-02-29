@@ -2,7 +2,8 @@
 type: noclass
 date: 2024-06-11T10:30:00+9:00
 week: 16
-class: 'No class (Finals week)'
+class:
+ - title: 'No class (Finals week)'
 material:
  - title: 'None'
 assignment:
