@@ -31,11 +31,9 @@ Here's a breakdown of how the grading will work:
 
 **Self and peer assessment**: [Metacognition](https://en.wikipedia.org/wiki/Metacognition) is an extremely powerful way to learn, and self- and peer-assessment offer great opportunities for metacognition. You'll be asked to assess yourself, as well as your teammates after some project milestones.
 
-**Class attendance**: As you come to each class, course staff will hand out a unique code to be used for the day. You need to insert that code in your nanoquiz submission, which will verify that you came to class that day in person.
-
 **Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
 
-**Nanoquiz and in-class activities**: You'll get to see your attendance and nanoquiz grades after class. 5 lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
+**Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. 5 lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
 
 **Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
 
