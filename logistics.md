@@ -33,7 +33,7 @@ Here's a breakdown of how the grading will work:
 
 **Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
 
-**Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. 5 lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
+**Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. **3** lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
 
 **Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
 
