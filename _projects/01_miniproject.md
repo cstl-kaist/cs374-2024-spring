@@ -5,10 +5,10 @@ title: 'Mini Project'
 pdf:
 attachment:
 solutions:
-due_event: 
-    type: due
-    date: 2024-03-19T23:59:00
-    description: 'Mini project due'
+# due_event: 
+#     type: due
+#     date: 2024-03-19T23:59:00
+#     description: 'Mini project due'
 ---
 ## What do we do?
 Hope the past two weeks have been an enjoyable experience, rapidly going through a design process. Finally, it's time to share your design process and what you learned from it, in an in-class studio session.
