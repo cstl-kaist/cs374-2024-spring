@@ -18,7 +18,7 @@ Hope the past two weeks have been an enjoyable experience, rapidly going through
 You need to (1) present in a studio session with your slides, which you already have, and (2) submit an individual reflection.
 
 * **Slides**: You just need to use the team slides you already have. No separate slides are needed or accepted for your presentation. Feel free to add/edit parts that you want to emphasize in your design process.
-* **Individual reflection**: Answer questions in the [individual reflection form individually](). **Please do not discuss with your teammates about what you write**. All responses will be kept confidential. Please be concise: any response should not exceed 200 words.
+* **Individual reflection**: Answer questions in the [individual reflection form individually](https://forms.gle/3fHAzkTbmkLNsWNT6). **Please do not discuss with your teammates about what you write**. All responses will be kept confidential. Please be concise: any response should not exceed 200 words.
 
 ## Grading
 * **Slides** (70%)
