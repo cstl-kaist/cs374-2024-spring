@@ -12,15 +12,27 @@ title: page.title
   <div>
     {% if page.due_event %}
     <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Thursday) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
-    <!-- {% elif page.title == 'Mini Project' %}
-    <span style="font-weight: bold"><mark>Studio: in-class on 3/19 (Tuesday), slides by 2:29 PM </mark></span>
-    <br>
-    <span style="font-weight: bold"><mark>Individual Reflection: 3/20 (Wednesday) 11:59 PM </mark></span>
-    <br>
-    <span style="font-weight: bold"><mark>10% of your total grade</mark></span> -->
     {% endif %}
     <br>
+    <!-- <span style="font-weight: bold">3% of your total grade</span>
+    <br> -->
     <br>
+    <!-- <p style="font-weight: bold">Download
+      {% if page.pdf %}
+      [<a href="{{ page.pdf | prepend: site.baseurl }}">problems</a>]
+      {% endif %}
+      {% if page.attachment %}
+      [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
+      {% endif %}
+      {% if page.solutions %}
+      [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
+      {% endif %}
+    </p> -->
+
+    <div style="color: gray;">
+      <h3>Late Policy</h3>
+      {% include late_policy.html %}
+    </div>
   </div>
 
   <br />

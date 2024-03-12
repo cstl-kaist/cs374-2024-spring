@@ -5,10 +5,6 @@ title: 'Mini Project'
 pdf:
 attachment:
 solutions:
-# due_event:
-#     type: 
-#     date:
-#     description:
 due_event: 
     type: due
     date: 2024-03-19T23:59:00
