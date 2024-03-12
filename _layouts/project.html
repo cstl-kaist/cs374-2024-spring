@@ -12,6 +12,7 @@ title: page.title
   <div>
     {% if page.due_event %}
     <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Thursday) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
+    {% elif page.title == 'Mini Project'}
     {% endif %}
     <br>
     <br>
