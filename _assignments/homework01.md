@@ -22,7 +22,7 @@ For each example, please report the following:
 * One-line description of what it is
 * Where can it be found? (e.g., physical location, URL, name of the app)
 * How did you find it? You shouldn't Google "UI hall of fame or shame" and copy examples from these databases. Please find your own examples.
-* Analyze its usability using the dimensions covered in class: learnability, efficiency, and safety. Please feel free to discuss additional dimensions that you think are important for your example.
+* Analyze its usability using the dimensions covered in class: learnability, efficiency, and safety. Please feel free to discuss additional dimensions that you think are important for your example. We haven't covered these dimensions in depth yet in class, so it's okay if your analysis is preliminary.
 * Screenshots and photos to effectively support your analysis
 
 For each example, you have a hard limit of **maximum 250 words**. But you may use as many screenshots and photos as you want. One-sentence captions are allowed for each visual material, and they are not counted toward the word limit.
