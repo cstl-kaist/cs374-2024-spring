@@ -1,12 +1,13 @@
 ---
-type: class
+type: noclass
 date: 2024-05-16T10:30:00+9:00
 week: 12
 class:
- - title: 'TBD'
+ - title: 'No class'
 material:
  - title: 'None'
-assignment: 
+assignment:
+ -  title: 'HW2 Due (TBD)'
 hide_time: true
 hide_from_announcements: true
 ---

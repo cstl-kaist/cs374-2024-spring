@@ -1,4 +1,4 @@
----
+<!-- ---
 type: class
 date: 2024-05-09T10:30:00+9:00
 week: 11
@@ -11,6 +11,18 @@ material:
    title: 'Reading 2 (Typography)'
 assignment:
  - title: 'HW2'
+hide_time: true
+hide_from_announcements: true
+--- -->
+---
+type: studio
+date: 2024-05-09T10:30:00+9:00
+week: 11
+class:
+ - title: '[Studio] DP4: Prototyping Round 2 + Heuristic Evaluation'
+material:
+ - title: 'None'
+assignment:
 hide_time: true
 hide_from_announcements: true
 ---
