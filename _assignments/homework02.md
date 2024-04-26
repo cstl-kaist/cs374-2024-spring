@@ -43,12 +43,12 @@ Make a copy of the template using “Duplicate to your drafts”, and change the
 ## Assignment details
 This assignment includes three steps, which in total sum up to 120 points. Please carefully read the instructions and follow them step-by-step.
 
-### STEP 1: Draw a page of chats (60 pts)
+## STEP 1: Draw a page of chats (60 pts)
 In this step, you have to create two components for conversation, each for the user and ChatGPT. Then, using the components, you should complete the prototype of a screen containing 2 turns of chat.
 
 ![step1](/_images/hw2_imgs/step1.png)
 
-#### Step 1-1: User conversation component (20pt)
+### Step 1-1: User conversation component (20pt)
 Let's create a **user conversation component** based on the part of the reference image that corresponds to the user's first utterance.
 
 ![step1-1](/_images/hw2_imgs/step1-1.png)
@@ -91,7 +91,7 @@ Let's create a **user conversation component** based on the part of the referenc
 * Change the frame with the auto layout as a component.
 * Change the component name to “user_conversation”.
 
-#### Step 1-2: ChatGPT conversation component (25pt)
+### Step 1-2: ChatGPT conversation component (25pt)
 Now, let's create a **ChatGPT conversation component** based on the part of the reference image that corresponds to the ChatGPT’s first utterance.
 
 ![step1-2](/_images/hw2_imgs/step1-2.png)
@@ -145,7 +145,7 @@ Learning about HCI is important because it helps us to design technology that be
 * Change the frame with the auto layout as a component
 * Change the component name to “gpt_conversation”
 
-#### Step 1-3: Complete a screen using components (10pt)
+### Step 1-3: Complete a screen using components (10pt)
 Using the two components that you made, complete the screen with 2 turns of conversation.
 
 ![step1-3](/_images/hw2_imgs/step1-3.png)
@@ -162,7 +162,7 @@ Using the two components that you made, complete the screen with 2 turns of conv
 > 2. Accessibility: This involves designing technology that can be used by people with different abilities and disabilities. It includes considerations such as visual impairments, hearing impairments, motor impairments, and cognitive impairments.
 > 3. Interaction techniques: This area of HCI focuses on developing new ways for humans to interact with computers. This includes touch screens, gestures, voice recognition, and other forms of natural language processing.
 
-#### Step 1-4: Add the “Regenerate response” button (5pt)
+### Step 1-4: Add the “Regenerate response” button (5pt)
 * Add a rectangle of the same size as the reference
   * Change the color of the fill and stroke to match the reference
 * Get a regenerate icon from the template
@@ -171,13 +171,13 @@ Using the two components that you made, complete the screen with 2 turns of conv
   * Change auto layout attributes so that the icon and text can be aligned in the vertical centerline.
 * Move the button to the proper position to match the reference
 
-### STEP 2: Implement a flow of chats (40 pts)
+## STEP 2: Implement a flow of chats (40 pts)
 
 ![step2](/_images/hw2_imgs/step2.gif)
 
 Let’s now decompose the chat interface into multiple frames, and create a flow to simulate a conversation between the user and ChatGPT. Detailed instructions are as follows:
 
-#### Step 2-1: Separate the chat page into multiple frames (30pt)
+### Step 2-1: Separate the chat page into multiple frames (30pt)
 
 **(15pt) Prepare a set of frames (desktop size) for a single turn of conversation.** A single turn of conversation needs 3 frames, consisting of
 * (1) a page where the user typed in a message to the chatbox,
@@ -189,7 +189,7 @@ Let’s now decompose the chat interface into multiple frames, and create a flow
 * Following the same approach, create 3 more frames (desktop size) composing the second turn of conversation.
 * Name them main-n (n = 4~6)
 
-#### Step 2-2: Add flow between the pages (10pt)
+### Step 2-2: Add flow between the pages (10pt)
 * Connect the 6 frames into an interactive prototype of two turns of chats using the flow feature.
 * In detail,
   * (1) → (2): Switch to the second page when the user clicks the send icon (refer to this [letter-like icon](https://www.google.com/url?q=https://www.iconpacks.net/free-icon/send-4008.html&sa=D&source=docs&ust=1714102793115408&usg=AOvVaw3bLIwokVYs0IJ9F5RI9XcU)) on the user input component.
@@ -197,20 +197,20 @@ Let’s now decompose the chat interface into multiple frames, and create a flow
   * (3) → (1): Fill in user input when user clicks on the “Send a message…” text.
 * Test your interaction by clicking on the Present button on the top right corner.
 
-### STEP 3: Make a new chat thread, and switch between threads (20 pts)
+## STEP 3: Make a new chat thread, and switch between threads (20 pts)
 
 ![step3](/_images/hw2_imgs/step3.gif)
 
 You have now successfully implemented two turns of conversation. Let’s add a interaction to make a new chat thread to the current prototype.
 
-#### Step 3-1: Add a new thread frame (10pt)
+### Step 3-1: Add a new thread frame (10pt)
 **(5pt) Create a new page frame (desktop size) consisting of a new thread.** Name the frame “new thread”.
 * On the left side of the frame, create a new chat thread button that says “New Thread”.
 * On the right side of the frame, use the template frame provided to make a page that looks like the starting page.
 **(5pt) Highlight the current thread by setting fill to white with 15% transparency to the thread rectangle on the left.**
 
 
-#### Step 3-2: Add flow between the pages (10pt)
+### Step 3-2: Add flow between the pages (10pt)
 **(5pt) Connect the “main-6” frame with the “new thread” frame. After the user finishes two turns of conversation, they should be able to start a new thread.**
 **(5pt) Connect the “new thread” frame with the “main-6” frame. The user should be able to see previous chat records by going back to the “main-6” frame.**
 * The user should be able to freely switch between the “main-6” and the “new thread” frames.
