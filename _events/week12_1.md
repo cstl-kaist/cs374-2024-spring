@@ -7,7 +7,8 @@ class:
 material:
  - title: 'None'
 assignment:
- - title: 'HW2 Due'
+ - url: https://hci.cstlab.org/assignments/homework02
+   title: 'HW2 Due'
 hide_time: true
 hide_from_announcements: true
 ---
