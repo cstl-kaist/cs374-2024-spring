@@ -211,6 +211,9 @@ You have now successfully implemented two turns of conversation. Let’s add a i
 
 ### Step 3-2: Add flow between the pages (10pt)
 **(5pt) Connect the “main-6” frame with the “new thread” frame. After the user finishes two turns of conversation, they should be able to start a new thread.**  
+
+<p>&nbsp;</p>
+
 **(5pt) Connect the “new thread” frame with the “main-6” frame. The user should be able to see previous chat records by going back to the “main-6” frame.**
 * The user should be able to freely switch between the “main-6” and the “new thread” frames.
 * Test your interaction by clicking on the “Present” button on the top right corner.
