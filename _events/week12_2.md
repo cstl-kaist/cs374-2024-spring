@@ -7,7 +7,6 @@ class:
 material:
  - title: 'None'
 assignment:
- -  title: 'HW2 Due (TBD)'
 hide_time: true
 hide_from_announcements: true
 ---

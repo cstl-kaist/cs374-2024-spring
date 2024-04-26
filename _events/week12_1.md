@@ -7,7 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
-
+ - title: 'HW2 Due'
 hide_time: true
 hide_from_announcements: true
 ---
