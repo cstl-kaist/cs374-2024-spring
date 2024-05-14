@@ -47,7 +47,7 @@ In this step, you have to create two components for conversation, each for the u
 
 ![step1](/_images/hw2_imgs/step1.png)
 
-### Step 1-1: User conversation component (20pt)
+### **Step 1-1: User conversation component (20pt)**
 Let's create a **user conversation component** based on the part of the reference image that corresponds to the user's first utterance.
 
 ![step1-1](/_images/hw2_imgs/step1-1.png)
@@ -90,7 +90,7 @@ Let's create a **user conversation component** based on the part of the referenc
 * Change the frame with the auto layout as a component.
 * Change the component name to “user_conversation”.
 
-### Step 1-2: ChatGPT conversation component (25pt)
+### **Step 1-2: ChatGPT conversation component (25pt)**
 Now, let's create a **ChatGPT conversation component** based on the part of the reference image that corresponds to the ChatGPT’s first utterance.
 
 ![step1-2](/_images/hw2_imgs/step1-2.png)
@@ -144,7 +144,7 @@ Learning about HCI is important because it helps us to design technology that be
 * Change the frame with the auto layout as a component
 * Change the component name to “gpt_conversation”
 
-### Step 1-3: Complete a screen using components (10pt)
+### **Step 1-3: Complete a screen using components (10pt)**
 Using the two components that you made, complete the screen with 2 turns of conversation.
 
 ![step1-3](/_images/hw2_imgs/step1-3.png)
@@ -161,7 +161,7 @@ Using the two components that you made, complete the screen with 2 turns of conv
 > 2. Accessibility: This involves designing technology that can be used by people with different abilities and disabilities. It includes considerations such as visual impairments, hearing impairments, motor impairments, and cognitive impairments.
 > 3. Interaction techniques: This area of HCI focuses on developing new ways for humans to interact with computers. This includes touch screens, gestures, voice recognition, and other forms of natural language processing.
 
-### Step 1-4: Add the “Regenerate response” button (5pt)
+### **Step 1-4: Add the “Regenerate response” button (5pt)**
 * Add a rectangle of the same size as the reference
   * Change the color of the fill and stroke to match the reference
 * Get a regenerate icon from the template
@@ -176,7 +176,7 @@ Using the two components that you made, complete the screen with 2 turns of conv
 
 Let’s now decompose the chat interface into multiple frames, and create a flow to simulate a conversation between the user and ChatGPT. Detailed instructions are as follows:
 
-### Step 2-1: Separate the chat page into multiple frames (30pt)
+### **Step 2-1: Separate the chat page into multiple frames (30pt)**
 
 **(15pt) Prepare a set of frames (desktop size) for a single turn of conversation.** A single turn of conversation needs 3 frames, consisting of
 * (1) a page where the user typed in a message to the chatbox,
@@ -188,7 +188,7 @@ Let’s now decompose the chat interface into multiple frames, and create a flow
 * Following the same approach, create 3 more frames (desktop size) composing the second turn of conversation.
 * Name them main-n (n = 4~6)
 
-### Step 2-2: Add flow between the pages (10pt)
+### **Step 2-2: Add flow between the pages (10pt)**
 * Connect the 6 frames into an interactive prototype of two turns of chats using the flow feature.
 * In detail,
   * (1) → (2): Switch to the second page when the user clicks the send icon (refer to this [letter-like icon](https://www.google.com/url?q=https://www.iconpacks.net/free-icon/send-4008.html&sa=D&source=docs&ust=1714102793115408&usg=AOvVaw3bLIwokVYs0IJ9F5RI9XcU)) on the user input component.
@@ -202,14 +202,14 @@ Let’s now decompose the chat interface into multiple frames, and create a flow
 
 You have now successfully implemented two turns of conversation. Let’s add a interaction to make a new chat thread to the current prototype.
 
-### Step 3-1: Add a new thread frame (10pt)
+### **Step 3-1: Add a new thread frame (10pt)**
 **(5pt) Create a new page frame (desktop size) consisting of a new thread.** Name the frame “new thread”.
 * On the left side of the frame, create a new chat thread button that says “New Thread”.
 * On the right side of the frame, use the template frame provided to make a page that looks like the starting page.
 **(5pt) Highlight the current thread by setting fill to white with 15% transparency to the thread rectangle on the left.**
 
 
-### Step 3-2: Add flow between the pages (10pt)
+### **Step 3-2: Add flow between the pages (10pt)**
 **(5pt) Connect the “main-6” frame with the “new thread” frame. After the user finishes two turns of conversation, they should be able to start a new thread.**  
 
 <p>&nbsp;</p>

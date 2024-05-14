@@ -67,12 +67,12 @@ When you first open up the `main.html` file on the browser, you will see the pag
 
 In this step, using the Figma file that you made in HW2, you have to create and write a new CSS file named `chat.css`, which contains codes for the design of the chat interface (including the user’s chat, ChatGPT’s chat, and “regenerate response” button). Once you have successfully created this file, you will be able to make a complete interface as shown below.
 
-### Step 1-1: Create chat.css file and import into main.html (5pt)
+### **Step 1-1: Create chat.css file and import into main.html (5pt)**
 * Create a file with the title `chat.css`. This file must be in the same location as the `main.html` file.
 * Import `chat.css` by adding the below tag inside the `<head>` tag in `main.html`
 <link rel="stylesheet" href="chat.css" />
 
-### Step 1-2: Complete user-side conversation component (20pt)
+### **Step 1-2: Complete user-side conversation component (20pt)**
 Let’s start writing  chat.css file now. Open up the Figma design file that you made in HW2 to refer to the CSS attributes of each component.
 
 * (5pt) In the upper image, the part marked in red is the part that is generated each time the user enters their message. Find the **class name** that corresponds to this whole part in main.html, and at the same time, corresponds to the *user_conversation* component that you made in the Figma file. Make a new selector for this class in the chat.css file.
@@ -93,7 +93,7 @@ Now, let’s do the same for the text part of the user chat element.
 * (5pt) In the upper image, the part marked in blue is the text part of the user chat. Find the **class name** that corresponds to this part in `main.html`. Make a new selector for this class in the `chat.css` file.
 * (5pt) Click on the text element in *user_conversation* component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
 
-### Step 1-3: Complete ChatGPT-side conversation component (30pt)
+### **Step 1-3: Complete ChatGPT-side conversation component (30pt)**
 Let’s complete the design for ChatGPT’s chats as well.
 
 Just like what you have done in step 1-2, write CSS codes for the (1) entire chat component (red), (2) text (blue), and (3) icon group (green).
@@ -102,10 +102,10 @@ Just like what you have done in step 1-2, write CSS codes for the (1) entire cha
 * (5pt) Click on the *gpt_conversation* component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
 * (5pt) In the upper image, the part marked in blue is the text part of the ChatGPT’s answer. Find the **class name** that corresponds to this part in `main.html`. Make a new selector for this class in the `chat.css` file.
 * (5pt) Click on the text element in *gpt_conversation* component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
-* (5pt) In the upper image, the part marked in green is the group of icons for pasting and rating the answers. Find the **class nam**e** that corresponds to this **group (not a single icon)** in `main.html`. Make a new selector for this class in the `chat.css` file.
+* (5pt) In the upper image, the part marked in green is the group of icons for pasting and rating the answers. Find the **class name** that corresponds to this **group (not a single icon)** in `main.html`. Make a new selector for this class in the `chat.css` file.
 * (5pt) Click on the icon group in *gpt_conversation* component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
 
-### Step 1-4: Complete “Regenerate response” button (15pt)
+### **Step 1-4: Complete “Regenerate response” button (15pt)**
 Lastly, let's put the design in the “Regenerate response” button at the bottom of the screen. You can find out the code like this in main.html, which corresponds to this button.
 
 ```
@@ -123,10 +123,10 @@ Lastly, let's put the design in the “Regenerate response” button at the bott
 
 Now you will have a styled ChatGPT chat page with HTML and CSS file. In this step, we will add the send chat feature step by step, by modifying the HTML, CSS, and JavaScript file.
 
-### Step 2-1: Import main.js file into main.html (5pt)
+### **Step 2-1: Import main.js file into main.html (5pt)**
 Import `main.js` by adding the `<link>` tag inside the `<head>` tag in `main.html`
 
-### Step 2-2: Update HTML and CSS (35pt)
+### **Step 2-2: Update HTML and CSS (35pt)**
 Here, you will modify the HTML+CSS file to change non-interactive components into the appropriate HTML tag.
 * (15pt) Input box for entering user chat
   * (5pt) Change the HTML tag of the chat input box into an `input`
@@ -140,7 +140,7 @@ Before implementing JS codes, you need to add the id to some elements in HTML co
 * (5pt) “Send” icon button: should have an id of "hw2__send".
 * (5pt) Chat history list (div that contains all conversation components) : should have an id of "hw2__chat-history".
 
-### Step 2-3: Implement the behavior of the “send” icon button (30pt)
+### **Step 2-3: Implement the behavior of the “send” icon button (30pt)**
 Now let's implement the interaction so that when the user types in their input and presses the send button, user's input is added above.
 
 You can use [JQuery](https://jquery.com/) to implement these functions. (JQuery is already imported.) Refer to the tutorial videos in the previous section if you need a quick tutorial to JQuery.
@@ -154,12 +154,12 @@ You can use [JQuery](https://jquery.com/) to implement these functions. (JQuery 
 
 In the previous step, you have successfully implemented the send chat feature. Now, let’s add ChatGPT’s dummy response, and make it look natural.
 
-### Step 3-1: Provide a dummy response to the user’s input (10pt)
+### **Step 3-1: Provide a dummy response to the user’s input (10pt)**
 Unfortunately, the ChatGPT we are implementing is not-yet-advanced, meaning that it does not have the ability to interpret user’s input and provide an appropriate response. The prototype will only output responses taken from a predefined list of responses.
 
 * (5pt) Select a random response from the `responses` list on the top of the `main.j` file.
 * (5pt) Every time when the user input is added to the chat history, the randomly selected response should be added to the chat history as well.
 
-### Step 3-2: Make the response look natural by adding delay and autoscroll (20pt)
+### **Step 3-2: Make the response look natural by adding delay and autoscroll (20pt)**
 * (10pt) Add a 3-second delay to the ChatGPT’s response
 * (10pt) Automatically scroll down to the bottom whenever a new response is added.
