@@ -44,7 +44,7 @@ We provide you with the [starter kit](https://hci.kixlab.org/assets/hw3/starter_
 ## How to submit?
 * Compress your code into **(student_number)_hw3.zip**. Please do not create any subfolders except for the images folder.
 * As written in the Intro section, if you used AI-powered programming tools, please include explanations as `studentid_note.txt` file and include it in the root directory.
-* Then upload the zip file to [this link]() until the due date stated above.
+* Then upload the zip file to [this link](https://www.dropbox.com/request/2ln50RwrIiXJKkXUeD48) until the due date stated above.
 
 ## How to test my code before submitting it?
 * TAs will evaluate your code on the latest stable version of Chrome for OSX. We expect no browser compatibility issues in this assignment (we're not making a cutting-edge web application), but please test your code in your platform's Chrome before submission.
