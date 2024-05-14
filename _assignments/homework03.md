@@ -65,7 +65,11 @@ This assignment consists of four steps, which in total sum up to **170 points**.
 
 When you first open up the `main.html` file on the browser, you will see the page that looks like the below image. Currently, there is a missing design on the right side, which is the chatting interface for communication between the user and ChatGPT.
 
+![step1_1](/_images/hw3_imgs/step1_1.png)
+
 In this step, using the Figma file that you made in HW2, you have to create and write a new CSS file named `chat.css`, which contains codes for the design of the chat interface (including the user’s chat, ChatGPT’s chat, and “regenerate response” button). Once you have successfully created this file, you will be able to make a complete interface as shown below.
+
+![step1_2](/_images/hw3_imgs/step1_2.png)
 
 ### **Step 1-1: Create chat.css file and import into main.html (5pt)**
 * Create a file with the title `chat.css`. This file must be in the same location as the `main.html` file.
@@ -74,6 +78,8 @@ In this step, using the Figma file that you made in HW2, you have to create and 
 
 ### **Step 1-2: Complete user-side conversation component (20pt)**
 Let’s start writing  chat.css file now. Open up the Figma design file that you made in HW2 to refer to the CSS attributes of each component.
+
+![step1-2](/_images/hw3_imgs/step1-2.png)
 
 * (5pt) In the upper image, the part marked in red is the part that is generated each time the user enters their message. Find the **class name** that corresponds to this whole part in main.html, and at the same time, corresponds to the *user_conversation* component that you made in the Figma file. Make a new selector for this class in the chat.css file.
 
@@ -98,6 +104,8 @@ Let’s complete the design for ChatGPT’s chats as well.
 
 Just like what you have done in step 1-2, write CSS codes for the (1) entire chat component (red), (2) text (blue), and (3) icon group (green).
 
+![step1-3](/_images/hw3_imgs/step1-3.png)
+
 * (5pt) In the upper image, the part marked in red is the part that is generated each time the ChatGPT produces answers. Find the **class name** that corresponds to this whole part in `main.html`, and at the same time, corresponds to the *gpt_conversation* component that you made in the Figma file. Make a new selector for this class in the `chat.css` file.
 * (5pt) Click on the *gpt_conversation* component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
 * (5pt) In the upper image, the part marked in blue is the text part of the ChatGPT’s answer. Find the **class name** that corresponds to this part in `main.html`. Make a new selector for this class in the `chat.css` file.
@@ -120,6 +128,8 @@ Lastly, let's put the design in the “Regenerate response” button at the bott
 * (5pt) Go to the Figma design file, and look for the design element that corresponds to the `div` with “regenerate-button-text” class. Open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in `chat.css`. Paste them into your CSS file.
 
 ## STEP 2: Implement the Send Chat Feature (70 pts)
+
+![step2](/_images/hw3_imgs/step2.gif)
 
 Now you will have a styled ChatGPT chat page with HTML and CSS file. In this step, we will add the send chat feature step by step, by modifying the HTML, CSS, and JavaScript file.
 
@@ -151,6 +161,8 @@ You can use [JQuery](https://jquery.com/) to implement these functions. (JQuery 
 * (10pt) Implement a keypress handler so that when the user press Enter (keyboard) in the input box, it behaves same as when the user clicks the “send” icon button.
 
 ## STEP 3: Provide Response to User’s Input (30 pts)
+
+![step3](/_images/hw3_imgs/step3.gif)
 
 In the previous step, you have successfully implemented the send chat feature. Now, let’s add ChatGPT’s dummy response, and make it look natural.
 
