@@ -7,7 +7,8 @@ class:
 material:
  - title: 'None'
 assignment:
- - title: 'DP5 Write-up'
+ - url:
+   title: 'DP5 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---
