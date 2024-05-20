@@ -169,7 +169,7 @@ In the previous step, you have successfully implemented the send chat feature. N
 ### **Step 3-1: Provide a dummy response to the user’s input (10pt)**
 Unfortunately, the ChatGPT we are implementing is not-yet-advanced, meaning that it does not have the ability to interpret user’s input and provide an appropriate response. The prototype will only output responses taken from a predefined list of responses.
 
-* (5pt) Select a random response from the `responses` list on the top of the `main.j` file.
+* (5pt) Select a random response from the `responses` list on the top of the `main.js` file.
 * (5pt) Every time when the user input is added to the chat history, the randomly selected response should be added to the chat history as well.
 
 ### **Step 3-2: Make the response look natural by adding delay and autoscroll (20pt)**
