@@ -28,7 +28,7 @@ To help you get started, we have compiled a list of recommended tutorials and ma
   * [Tutorial #2 - JavaScript](https://www.youtube.com/watch?v=SCpvAnAVF28&feature=youtu.be) ([PDF](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial2.pdf) | [JS Code](http://codepen.io/hgshin/pen/xqrgLg) | [jQuery Code](http://codepen.io/hgshin/pen/vxZgeR))
 * (1 hour) [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 * (1 hour) [CSS Full Course for free 🎨 (2023)](https://www.youtube.com/watch?v=wRNinF7YQqQ)
-* (10 mins) [Learn jQuery in 10 Minutes jQuery Tutorial](https://youtu.be/YprBzDEg7bc)
+* (10 mins) [Learn jQuery in 10 Minutes | jQuery Tutorial](https://youtu.be/YprBzDEg7bc)
 
 For those who do not have any prior experience in web programming, we have designed this assignment to serve as an entry point into the world of web programming. Do not be afraid to challenge yourself and explore this new field.
 
