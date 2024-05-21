@@ -78,6 +78,7 @@ var old = '';
 
 function init()
 {
+  console.log("init")
   window.editbox.document.write(editboxHTML);
   window.editbox.document.close();
   window.editbox.document.f.ta.value = defaultStuff;
@@ -86,6 +87,7 @@ function init()
 
 function update()
 {
+  console.log("updating")
   var textarea = window.editbox.document.f.ta;
   var d = dynamicframe.document;
 
