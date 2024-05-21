@@ -1,5 +1,5 @@
 ---
-layout: activity/internalization/i18n/index
+layout: activity/internationalization/i18n/index
 title: Internalization
-permalink: /activity/internalization
+permalink: /activity/i18n
 ---
