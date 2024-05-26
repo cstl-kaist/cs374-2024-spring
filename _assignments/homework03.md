@@ -134,7 +134,7 @@ Lastly, let's put the design in the “Regenerate response” button at the bott
 Now you will have a styled ChatGPT chat page with HTML and CSS file. In this step, we will add the send chat feature step by step, by modifying the HTML, CSS, and JavaScript file.
 
 ### **Step 2-1: Import main.js file into main.html (5pt)**
-Import `main.js` by adding the `<link>` tag inside the `<head>` tag in `main.html`
+Import `main.js` by adding the ~~`<link>` tag~~`<script>` tag inside the `<head>` tag in `main.html`
 
 ### **Step 2-2: Update HTML and CSS (35pt)**
 Here, you will modify the HTML+CSS file to change non-interactive components into the appropriate HTML tag.
