@@ -1,4 +1,4 @@
 ---
-redirect_to: /2024spring
+redirect_to: "/2024spring"
 layout: home
 ---
