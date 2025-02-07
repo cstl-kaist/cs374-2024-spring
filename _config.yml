@@ -1,6 +1,3 @@
-plugins:
-  - jekyll-redirect-from
-
 # Site settings
 course_name: CS374 Introduction to Human-Computer Interaction
 course_description: "Designing useful and usable user interfaces is much more than designing fancy and beautiful things. This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces. Through this course, you’ll master the skills to design useful and usable interfaces that are carefully catered to users’ needs."
