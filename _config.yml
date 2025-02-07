@@ -4,7 +4,7 @@ course_description: "Designing useful and usable user interfaces is much more th
 course_semester: "2024 Spring"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://hci.cstlab.org" # the base hostname & protocol for your site
+url: "https://hci.cstlab.org/2024spring" # the base hostname & protocol for your site
 
 schoolname: "KAIST School of Computing"
 schoolurl: "https://cs.kaist.ac.kr"
